@@ -7,11 +7,11 @@ A streamlined solution for automating certificate generation and distribution fo
 Efficient Certificate Management: Automates the creation and distribution of certificates.
 Seamless Integration: Built using CSS, HTML, JavaScript, and PHP, connected to a MySQL database hosted on a XAMPP server.
 User-Friendly Interface: Simplifies the process for event organizers and participants.
-Cost-Effective: Reduces the need for manual printing and distribution.
+Cost-Effective: Reduces the need for manual printing and distribution.<br>
 <b>Tech Stack 💻</b><br>
 Frontend: CSS, HTML, JavaScript
 Backend: PHP
 Database: MySQL
-Server: XAMPP
+Server: XAMPP<br>
 <b>Purpose 🌟</b><br>
 Developed to assist colleges in automating certificate distribution, ensuring a faster, error-free, and eco-friendly solution for event management.
